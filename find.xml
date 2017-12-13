@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'TestProject'" />
-    <option name="defaultScopeName" value="Project 'TestProject'" />
-    <option name="SEARCH_SCOPE" value="Project 'TestProject'" />
+    <option name="customScope" value="Project 'MyPythonProjects'" />
+    <option name="defaultScopeName" value="Project 'MyPythonProjects'" />
+    <option name="SEARCH_SCOPE" value="Project 'MyPythonProjects'" />
   </component>
 </application>
